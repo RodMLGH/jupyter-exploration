@@ -1,2 +1,2 @@
 # jupyter-exploration
-This repository is related to Jupyter exploration.
+# This repository is related to Jupyter exploration.
